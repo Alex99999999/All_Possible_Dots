@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="003135a3-63c9-42f4-ae92-9f909c186702" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DottedLine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BL/DotsDotsDots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BL/DotsEverywhere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RunApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utilities/IOUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Validator/StringValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Validator/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/input/StringInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/input/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/output/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/output/ResultsOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BL/DotsDotsDots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BL/DotsEverywhere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/DottedLine.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/RunApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Utilities/IOUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Validator/StringValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Validator/Validator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/input/StringInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/input/UserInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/output/Output.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/output/ResultsOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DottedLine" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sg7H9NwwIwPuwJPFWDeY7pDLQR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.62528735" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DottedLine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BL.Test" />
+      <module name="DottedLine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="003135a3-63c9-42f4-ae92-9f909c186702" name="Default Changelist" comment="" />
+      <created>1621282288642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621282288642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
